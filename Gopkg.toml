@@ -1,0 +1,8 @@
+required = [
+  # Utilities
+  "github.com/sclevine/forge",
+
+]
+[[constraint]]
+  name = "github.com/sclevine/forge"
+  branch = "master"
